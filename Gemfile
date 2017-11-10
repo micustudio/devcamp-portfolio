@@ -56,3 +56,5 @@ gem 'friendly_id', '~> 5.1.0'
 gem 'devise', '~> 4.3'
 
 gem 'bootstrap', '~> 4.0.0.beta2'
+
+gem 'michael_c_view_tool', git: 'https://github.com/micustudio/michael_c_view_tool'

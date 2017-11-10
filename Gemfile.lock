@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/micustudio/michael_c_view_tool
+  revision: 71cea1be69f45ffe5fe0fb51f50b0a4ab35a36cc
+  specs:
+    michael_c_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -196,6 +202,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
+  michael_c_view_tool!
   pg (~> 0.18)
   pry-byebug
   puma (~> 3.0)
