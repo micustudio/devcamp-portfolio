@@ -1,9 +1,3 @@
-GIT
-  remote: https://github.com/micustudio/michael_c_view_tool
-  revision: 71cea1be69f45ffe5fe0fb51f50b0a4ab35a36cc
-  specs:
-    michael_c_view_tool (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -96,6 +90,7 @@ GEM
     mail (2.7.0)
       mini_mime (>= 0.1.1)
     method_source (0.9.0)
+    michael_c_view_tool (0.1.0)
     mini_mime (1.0.0)
     mini_portile2 (2.3.0)
     minitest (5.10.3)
@@ -202,7 +197,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
-  michael_c_view_tool!
+  michael_c_view_tool (~> 0.1.0)
   pg (~> 0.18)
   pry-byebug
   puma (~> 3.0)
